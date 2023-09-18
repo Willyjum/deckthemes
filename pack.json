@@ -1,0 +1,10 @@
+{
+  "name": "Task Force Neuron & Task Force Computer - Astral Chain",
+  "description": "Composer: Satoshi Igarashi. This is a combination of two songs that come from the game Astral Chain on the NSwitch.",
+  "author": "Willyjum",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
